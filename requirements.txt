@@ -1,0 +1,26 @@
+pandas==2.3.0
+numpy==2.3.0
+matplotlib==3.10.3
+seaborn==0.13.2
+jupyternotebook==7.2.2
+
+
+
+
+
+📁 Project Structure
+
+
+Sales-Analysis-Project/
+
+
+├── data/
+│   ├── raw/                   # Original dataset
+│   └── cleaned/               # Cleaned dataset saved after processing
+├── notebooks/
+│   └── Sales_Analysis.ipynb
+├── EDA_visuals/                   # Saved EDA charts/plots
+├── README.md
+├── requirements.txt           # Python libraries used
+└── LICENSE
+
